@@ -1,7 +1,4 @@
-# STARTER-jpa03
-
-```
-```
+# jpa03-michaelljiang
 
 Running at: <https://jpa03-michaelljiang.dokku-06.cs.ucsb.edu/>
 
